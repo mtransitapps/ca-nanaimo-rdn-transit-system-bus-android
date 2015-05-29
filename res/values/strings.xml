@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+    <string name="app_name">MonTransit RDN Transit System Bus (Regional District of Nanaimo, British Columbia)</string>
+    <string name="app_desc">British Columbia Regional District of Nanaimo Transit System Bus data for MonTransit.</string>
+</resources>
