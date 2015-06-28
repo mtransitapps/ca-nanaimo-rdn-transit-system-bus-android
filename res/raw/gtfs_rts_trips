@@ -11,9 +11,9 @@
 601,0,'VI University',6
 701,0,'Cinnabar / Cedar',7
 804,1,'S',8
-901,0,'North - BC Ferries / North - Woodgrove',9
+903,1,'N',9
 1000,0,'Lantzville',10
-1200,0,'Dover - Nanaimo North',12
+1200,0,'Dover / Nanaimo North',12
 1500,0,'VI University',15
 1501,0,'Woodgrove',15
 2500,0,'Ferry Shuttle / BC Ferries',25
@@ -21,8 +21,5 @@
 8801,0,'Wembley Mall',88
 9000,0,'Nanaimo',90
 9001,0,'Qualicum Beach',90
-9200,0,'Dover Bay High',92
-9301,0,'AM',93
-9300,0,'PM',93
 9901,0,'Deep Bay',99
 9900,0,'Woodgrove',99
