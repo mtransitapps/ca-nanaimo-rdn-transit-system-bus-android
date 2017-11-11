@@ -5,7 +5,7 @@ Nanaimo RDN Transit System buses for MonTransit.
 Schedule. Alerts. News.
 ----------
 What's new in this version?:
-Schedule from September 3, 2017 to December 23, 2017.
+Schedule from November 8, 2017 to December 23, 2017.
 Tweets from @BCTransit.
 ----------
 Full description:
