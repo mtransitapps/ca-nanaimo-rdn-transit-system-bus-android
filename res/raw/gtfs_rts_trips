@@ -3,7 +3,7 @@
 500,0,'Downtown',5
 501,0,'Westwood',5
 600,0,'Downtown',6
-601,0,'VI University',6
+601,0,'VIU',6
 701,0,'Cinnabar & Cedar',7
 1100,0,'Lantzville',11
 1500,0,'VIU',15
@@ -11,7 +11,7 @@
 2000,0,'Downtown',20
 2001,0,'Woodgrove',20
 2501,0,'BC Ferries',25
-2500,0,'VIU',25
+2500,0,'Woodgrove',25
 3000,0,'Downtown',30
 3001,0,'Woodgrove',30
 4000,0,'Downtown',40
@@ -22,6 +22,7 @@
 8801,0,'Wembley Mall',88
 9101,0,'Qualicum Beach',91
 9100,0,'Woodgrove',91
+9200,0,'School Special',92
 9701,0,'Eaglecrest',97
 9800,0,'Qualicum Beach',98
 9901,0,'Deep Bay',99
