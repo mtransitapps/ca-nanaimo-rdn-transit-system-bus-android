@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
+    <integer name="bc_transit_next_ride_db_version">1</integer>
+    <string name="bc_transit_next_ride_authority">org.mtransit.android.ca_nanaimo_rdn_transit_system_bus.bc_transit_next_ride</string>
+    <string name="bc_transit_next_ride_status_for_poi_authority">@string/gtfs_rts_authority</string>
+    <string name="bc_transit_next_ride_api_url">https://nextride.nanaimo.bctransit.com/api</string>
+    <string name="bc_transit_next_ride_api_timezone">@string/gtfs_rts_timezone</string>
+</resources>
