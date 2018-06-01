@@ -6,12 +6,12 @@ Schedule. Alerts. News.
 ----------
 What's new in this version?:
 Schedule from April 6, 2018 to June 30, 2018.
-Tweets from @BCTransit.
+Tweets from @RDN_Transit & @BCTransit.
 ----------
 Full description:
 This app adds Regional District of Nanaimo Transit System (BC Transit) buses information to MonTransit.
 
-This app provides the buses schedule and news from YouTube and @BCTransit on Twitter.
+This app provides the buses schedule and news from YouTube and @RDN_Transit and @BCTransit on Twitter.
 
 RDN Transit System buses serve Nanaimo, Parksville, Qualicum Beach, Lantzville in British Columbia, Canada.
 
