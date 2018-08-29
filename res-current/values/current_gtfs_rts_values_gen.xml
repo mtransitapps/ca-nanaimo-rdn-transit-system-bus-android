@@ -2,10 +2,10 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <bool name="current_gtfs_rts_schedule_available">true</bool>
     <bool name="current_gtfs_rts_frequency_available">false</bool>
-    <string name="current_gtfs_rts_area_min_lat">49.0955967225137</string>
-    <string name="current_gtfs_rts_area_max_lat">49.4644550285724</string>
-    <string name="current_gtfs_rts_area_min_lng">-124.725939943966</string>
-    <string name="current_gtfs_rts_area_max_lng">-123.847627300777</string>
-    <integer name="current_gtfs_rts_first_departure_in_sec">1530453600</integer>
-    <integer name="current_gtfs_rts_last_departure_in_sec">1535873100</integer>
+    <string name="current_gtfs_rts_area_min_lat">49.095597</string>
+    <string name="current_gtfs_rts_area_max_lat">49.464455</string>
+    <string name="current_gtfs_rts_area_min_lng">-124.72594</string>
+    <string name="current_gtfs_rts_area_max_lng">-123.847627</string>
+    <integer name="current_gtfs_rts_first_departure_in_sec">1531228080</integer>
+    <integer name="current_gtfs_rts_last_departure_in_sec">1542788520</integer>
 </resources>
