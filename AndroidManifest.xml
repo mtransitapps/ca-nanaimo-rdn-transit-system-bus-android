@@ -74,10 +74,10 @@
                 android:name="@string/schedule_provider_target"
                 android:value="@string/gtfs_rts_authority" />
         </provider>
-        <!-- BC TRANSIT NEXT RIDE PROVIDER -->
+        <!-- STRATEGIC MAPPING PROVIDER -->
         <provider
-            android:name="org.mtransit.android.commons.provider.BCTransitNextRideProvider"
-            android:authorities="@string/bc_transit_next_ride_authority"
+            android:name="org.mtransit.android.commons.provider.StrategicMappingProvider"
+            android:authorities="@string/strategic_mapping_authority"
             android:exported="true"
             android:readPermission="org.mtransit.android.provider.permission.READ_PROVIDER"
             tools:ignore="MissingRegistered">
@@ -86,7 +86,7 @@
                 android:value="@string/status_provider" />
             <meta-data
                 android:name="@string/status_provider_target"
-                android:value="@string/bc_transit_next_ride_status_for_poi_authority" />
+                android:value="@string/strategic_mapping_status_for_poi_authority" />
         </provider>
         <!-- TWITTER NEWS PROVIDER -->
         <provider
