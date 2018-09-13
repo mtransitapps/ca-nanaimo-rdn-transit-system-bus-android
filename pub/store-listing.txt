@@ -1,4 +1,4 @@
-Title: Nanaimo Transit System Bus - …
+Title: Nanaimo RDN Transit System Bus - MonTransit
 ----------
 Short description:
 Nanaimo RDN Transit System buses for MonTransit.
@@ -31,7 +31,7 @@ https://github.com/mtransitapps/ca-nanaimo-rdn-transit-system-bus-android
 This app is not related with BC Transit and Regional District of Nanaimo Transit System.
 
 Permissions:
-- Other: required to read news from YouTube and Twitter
+- Other: required for real-time schedule predictions from nextride.nanaimo.bctransit.com and to read news from YouTube and Twitter
 ----------
 Application type: Applications
 ----------
