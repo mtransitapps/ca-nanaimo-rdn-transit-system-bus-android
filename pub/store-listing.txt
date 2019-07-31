@@ -5,7 +5,7 @@ Nanaimo RDN Transit System buses for MonTransit.
 Schedule. Real time. News.
 ----------
 What's new in this version?:
-Schedule from June 30, 2019 to October 8, 2019.
+Schedule from June 30, 2019 to December 21, 2019.
 Real-time predictions from NextRide.
 Tweets from @RDN_Transit & @BCTransit.
 ----------
