@@ -4,8 +4,10 @@
 501,0,'Westwood',5
 600,0,'Downtown',6
 601,0,'VIU',6
-701,0,'Cinnabar & Cedar',7
+701,0,'Cinnabar',7
 700,0,'Downtown',7
+801,0,'Cedar',8
+800,0,'VIU',8
 1100,0,'West',11
 1101,0,'Woodgrove',11
 1500,0,'VIU',15
@@ -20,10 +22,13 @@
 4001,0,'Woodgrove',40
 5000,0,'Downtown',50
 5001,0,'Woodgrove',50
+7801,0,'Cassidy & Nanaimo Airport',78
+7800,0,'Downtown',78
 88010,0,'Parksville',88
 88011,0,'Wembley Mall',88
 9101,0,'Qualicum Beach',91
 9100,0,'Woodgrove',91
+9200,0,'Country Club',92
 9701,0,'East',97
 9700,0,'Ravensong',97
 9801,0,'Island Hwy W',98
