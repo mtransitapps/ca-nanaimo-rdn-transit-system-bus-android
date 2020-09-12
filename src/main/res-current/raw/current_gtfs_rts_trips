@@ -1,36 +1,37 @@
-84201,0,'Country Club',842
-84200,0,'Downtown',842
-84300,0,'Downtown',843
-84301,0,'Westwood',843
-84400,0,'Downtown',844
-84401,0,'VIU',844
-84501,0,'Cinnabar',845
-84500,0,'Downtown',845
-84601,0,'Cedar',846
-84600,0,'VIU',846
-84700,0,'West',847
-84701,0,'Woodgrove',847
-84800,0,'VIU',848
-84801,0,'Woodgrove',848
-84900,0,'Downtown',849
-84901,0,'Woodgrove',849
-85001,0,'BC Ferries',850
-85000,0,'Woodgrove',850
-85100,0,'Downtown',851
-85101,0,'Woodgrove',851
-85200,0,'Downtown',852
-85201,0,'Woodgrove',852
-85300,0,'Downtown',853
-85301,0,'Woodgrove',853
-85401,0,'Cassidy & Nanaimo Airport',854
-85400,0,'Downtown',854
-85500,0,'Parksville',855
-85501,0,'Wembley Mall',855
-85601,0,'Qualicum Beach',856
-85600,0,'Woodgrove',856
-85701,0,'East',857
-85700,0,'Ravensong',857
-85801,0,'Island Hwy W',858
-85800,0,'Ravensong',858
-85901,0,'Deep Bay',859
-85900,0,'Qualicum Beach',859
+86101,0,'Country Club',861
+86100,0,'Downtown',861
+86200,0,'Downtown',862
+86201,0,'Westwood',862
+86300,0,'Downtown',863
+86301,0,'VIU',863
+86401,0,'Cinnabar',864
+86400,0,'Downtown',864
+86501,0,'Cedar',865
+86500,0,'VIU',865
+86600,0,'West',866
+86601,0,'Woodgrove',866
+86700,0,'VIU',867
+86701,0,'Woodgrove',867
+86800,0,'Downtown',868
+86801,0,'Woodgrove',868
+86901,0,'BC Ferries',869
+86900,0,'Woodgrove',869
+87000,0,'Downtown',870
+87001,0,'Woodgrove',870
+87100,0,'Downtown',871
+87101,0,'Woodgrove',871
+87200,0,'Downtown',872
+87201,0,'Woodgrove',872
+87301,0,'Cassidy & Nanaimo Airport',873
+87300,0,'Downtown',873
+87400,0,'Parksville',874
+87401,0,'Wembley Mall',874
+87501,0,'Qualicum Beach',875
+87500,0,'Woodgrove',875
+87600,0,'Country Club',876
+87701,0,'East',877
+87700,0,'Ravensong',877
+87801,0,'Island Hwy W',878
+87800,0,'Ravensong',878
+87901,0,'Deep Bay',879
+87900,0,'Qualicum Beach',879
