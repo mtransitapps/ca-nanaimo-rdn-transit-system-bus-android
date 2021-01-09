@@ -1,34 +1,35 @@
-90101,0,'Country Club',901
-90100,0,'Downtown',901
-90200,0,'Downtown',902
-90201,0,'Westwood',902
-90300,0,'Downtown',903
-90301,0,'VIU',903
-90401,0,'Cinnabar',904
-90400,0,'Downtown',904
-90501,0,'Cedar',905
-90500,0,'VIU',905
-90601,0,'Northwind @ Eastwind Dr',906
-90600,0,'Woodgrove Ctr Exch',906
-90700,0,'VIU',907
-90701,0,'Woodgrove',907
-90800,0,'Downtown',908
-90801,0,'Woodgrove',908
-90900,0,'BC Ferries',909
-90901,0,'Woodgrove',909
-91000,0,'Downtown',910
-91001,0,'Woodgrove',910
-91100,0,'Downtown',911
-91101,0,'Woodgrove',911
-91200,0,'Downtown',912
-91201,0,'Woodgrove',912
-91301,0,'Cassidy & Nanaimo Airport',913
-91300,0,'Downtown',913
-91400,0,'Parksville',914
-91401,0,'Wembley Mall',914
-91501,0,'Qualicum Beach',915
-91500,0,'Woodgrove',915
-91601,0,'Eaglecrest',916
-91701,0,'Qualicum Beach',917
-91801,0,'Deep Bay',918
-91800,0,'Qualicum Beach',918
+92001,0,'Country Club',920
+92000,0,'Downtown',920
+92100,0,'Downtown',921
+92101,0,'Westwood',921
+92200,0,'Downtown',922
+92201,0,'VIU',922
+92301,0,'Cinnabar',923
+92300,0,'Downtown',923
+92401,0,'Cedar',924
+92400,0,'VIU',924
+92501,0,'Northwind @ Eastwind Dr',925
+92500,0,'Woodgrove Ctr Exch',925
+92600,0,'VIU',926
+92601,0,'Woodgrove',926
+92700,0,'Downtown',927
+92701,0,'Woodgrove',927
+92800,0,'BC Ferries',928
+92801,0,'Woodgrove',928
+92900,0,'Downtown',929
+92901,0,'Woodgrove',929
+93000,0,'Downtown',930
+93001,0,'Woodgrove',930
+93100,0,'Downtown',931
+93101,0,'Woodgrove',931
+93201,0,'Cassidy & Nanaimo Airport',932
+93200,0,'Downtown',932
+93300,0,'Parksville',933
+93301,0,'Wembley Mall',933
+93401,0,'Qualicum Beach',934
+93400,0,'Woodgrove',934
+93500,0,'Country Club',935
+93601,0,'Eaglecrest',936
+93701,0,'Qualicum Beach',937
+93801,0,'Deep Bay',938
+93800,0,'Qualicum Beach',938
