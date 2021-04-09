@@ -8,16 +8,16 @@
 4100,0,'Downtown',41
 4201,0,'Northwind @ Eastwind Dr',42
 4200,0,'Woodgrove Ctr Exch',42
-4300,0,'A VIU',43
 4301,0,'A Woodgrove',43
+4300,0,'VIU',43
+4401,0,'Country Club',44
 4400,0,'Downtown',44
-4401,0,'Woodgrove',44
 4500,0,'BC Ferries',45
 4501,0,'Woodgrove',45
 4600,0,'Downtown',46
 4601,0,'Woodgrove',46
-4700,0,'Front @ Esplanade',47
-4701,0,'Woodgrove Ctr Exch',47
+4700,0,'Downtown',47
+4701,0,'Woodgrove',47
 4800,0,'Downtown',48
 4801,0,'Woodgrove',48
 4900,0,'Parksville',49
