@@ -1,2 +1,1 @@
-Nanaimo RDN Transit System buses for MonTransit.
-Schedule. Real time. News.
+Nanaimo RDN Transit System buses for MonTransit. Schedule. Real time. News.
