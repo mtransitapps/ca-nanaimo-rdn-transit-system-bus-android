@@ -15,7 +15,7 @@
 2000,0,'Downtown',20
 2001,0,'Woodgrove',20
 2500,0,'Hullo Ferry',25
-2501,0,'Woodgrove',25
+2501,0,'Test Pattern',25
 3000,0,'Downtown',30
 3001,0,'Woodgrove',30
 4000,0,'Downtown',40
@@ -24,8 +24,8 @@
 5001,0,'Woodgrove',50
 7001,0,'Duncan',70
 7000,0,'Nanaimo',70
-7801,0,'Cassidy & Nanaimo Airport',78
-7800,0,'Downtown',78
+7800,0,'Downtown Nanaimo',78
+7801,0,'YCD Airport',78
 8800,0,'Parksville',88
 8801,0,'Wembley Mall',88
 9101,0,'Qualicum Beach',91
