@@ -15,7 +15,7 @@
 2000,0,'Downtown',20
 2001,0,'Woodgrove',20
 2500,0,'Hullo Ferry',25
-2501,0,'Test Pattern',25
+2501,0,'Woodgrove',25
 3000,0,'Downtown',30
 3001,0,'Woodgrove',30
 4000,0,'Downtown',40
@@ -30,6 +30,7 @@
 8801,0,'Wembley Mall',88
 9101,0,'Qualicum Beach',91
 9100,0,'Woodgrove',91
+9200,0,'Country Club',92
 9701,0,'Eaglecrest',97
 9801,0,'Qualicum Beach',98
 9901,0,'Deep Bay',99
