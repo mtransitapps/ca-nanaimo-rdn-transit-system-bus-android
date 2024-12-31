@@ -3,20 +3,17 @@
 6,'6','Harewood','59EB52',54,3
 7,'7','Cinnabar','E99D47',55,3
 8,'8','Cedar To VIU','00AA47',56,3
-9,'9','Intercity','AE8BDF',57,3
+11,'11','Lantzville','455EEC',1568,3
 15,'15','VIU Connector','975EE8',1572,3
 20,'20','Hammond Bay','A0A251',1598,3
 25,'25','Ferry Shuttle','57ECCE',1603,3
 30,'30','NRGH','EF750A',1629,3
-31,'31','Lantzville','455EEC',1630,3
 40,'40','VIU EXPRESS','F4B099',1660,3
+50,'50','Downtown / Woodgrove','96AE75',1691,3
 70,'70','NCX Nanaimo - Cowichan Express','000000',1753,3
-72,'72','Downtown / Country Club','F00C0C',1755,3
 78,'78','Cassidy / Airport','F37421',1761,3
 88,'88','Parksville','5FB8E8',1792,3
-92,'92','Hammond Bay','833C3C',1817,3
+91,'91','Intercity','AE8BDF',1816,3
 97,'97','Eaglecrest','A4A907',1822,3
 98,'98','Qualicum Beach','08AC75',1823,3
 99,'99','Deep Bay','6087E1',1824,3
-10015,'15A','VIU Connector Via Jingle Pot','975EE8',48797,3
-10020,'20A','Hammond Bay Via Dover','A0A251',49603,3
