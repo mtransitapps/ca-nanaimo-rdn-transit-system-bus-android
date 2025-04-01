@@ -1,17 +1,24 @@
 '3733',2000,205100,0,'Country Club',0,20300,0,'Country Club',0
 '3733',2001,145300,0,'Country Club',0,69800,0,'Country Club',0,19700,0,'Country Club',0
-'3735',2000,205100,0,'Country Club',0,20300,0,'Country Club',0
-'3735',2001,145300,0,'Country Club',0,69800,0,'Country Club',0,19700,0,'Country Club',0
-'3873',2000,193800,0,'Country Club',0,21800,0,'Country Club',0,10200,0,'Country Club',0
-'3873',2001,215000,0,'Country Club',0,19900,0,'Country Club',0
+'3968',2000,205100,0,'Country Club',0,20300,0,'Country Club',0
+'3968',2001,145300,0,'Country Club',0,69800,0,'Country Club',0,19700,0,'Country Club',0
+'4179',2000,205100,0,'Country Club',0,20300,0,'Country Club',0
+'4179',2001,145300,0,'Country Club',0,69800,0,'Country Club',0,19700,0,'Country Club',0
+'4180',2000,193800,0,'Country Club',0,21800,0,'Country Club',0,10200,0,'Country Club',0
+'4180',2001,215000,0,'Country Club',0,19900,0,'Country Club',0
 '3733',9200,141300,,'',0,200,,'',0
-'3866',9200,143300,,'',0,200,,'',0
-'3867',9200,153300,,'',0,200,,'',0
+'3827',9200,153300,,'',0,200,,'',0
+'3968',9200,143300,,'',0,200,,'',0
+'4181',9200,143300,,'',0,200,,'',0
 '3733',1002000,60300,0,'Country Club',0,10800,0,'Country Club',0,10200,0,'Country Club',0,2700,0,'Country Club',0,16300,0,'Country Club',0,11000,0,'Country Club',0,11000,0,'Country Club',0,11000,0,'Country Club',0,10800,0,'Country Club',0,11100,0,'Country Club',0,15000,0,'Country Club',0,12800,0,'Country Club',0,11000,0,'Country Club',0,21600,0,'Country Club',0
 '3733',1002001,71500,0,'Country Club',0,11300,0,'Country Club',0,11300,0,'Country Club',0,16100,0,'Country Club',0,11000,0,'Country Club',0,11200,0,'Country Club',0,8400,0,'Country Club',0,2600,0,'Country Club',0,11000,0,'Country Club',0,10900,0,'Country Club',0,14900,0,'Country Club',0,12900,0,'Country Club',0,10600,0,'Country Club',0,21200,0,'Country Club',0
-'3735',1002000,60300,0,'Country Club',0,10800,0,'Country Club',0,10200,0,'Country Club',0,2700,0,'Country Club',0,16300,0,'Country Club',0,11000,0,'Country Club',0,11000,0,'Country Club',0,11000,0,'Country Club',0,10800,0,'Country Club',0,11100,0,'Country Club',0,15000,0,'Country Club',0,12800,0,'Country Club',0,11000,0,'Country Club',0,21600,0,'Country Club',0
-'3735',1002001,71500,0,'Country Club',0,11300,0,'Country Club',0,11300,0,'Country Club',0,16100,0,'Country Club',0,11000,0,'Country Club',0,11200,0,'Country Club',0,8400,0,'Country Club',0,2600,0,'Country Club',0,11000,0,'Country Club',0,10900,0,'Country Club',0,14900,0,'Country Club',0,12900,0,'Country Club',0,10600,0,'Country Club',0,21200,0,'Country Club',0
-'3859',1002000,71400,0,'Country Club',0,21800,0,'Country Club',0,20800,0,'Country Club',0,27000,0,'Country Club',0,22100,0,'Country Club',0,27700,0,'Country Club',0
-'3859',1002001,80400,0,'Country Club',0,21200,0,'Country Club',0,23200,0,'Country Club',0,26000,0,'Country Club',0,21900,0,'Country Club',0,30500,0,'Country Club',0
-'3873',1002000,63700,0,'Country Club',0,11200,0,'Country Club',0,11000,0,'Country Club',0,14700,0,'Country Club',0,11400,0,'Country Club',0,10600,0,'Country Club',0,10000,0,'Country Club',0,11200,0,'Country Club',0,11800,0,'Country Club',0,15000,0,'Country Club',0,12500,0,'Country Club',0,22500,0,'Country Club',0
-'3873',1002001,72800,0,'Country Club',0,11300,0,'Country Club',0,11100,0,'Country Club',0,15100,0,'Country Club',0,10300,0,'Country Club',0,11700,0,'Country Club',0,11000,0,'Country Club',0,10400,0,'Country Club',0,11600,0,'Country Club',0,14900,0,'Country Club',0,12400,0,'Country Club',0,10300,0,'Country Club',0,21900,0,'Country Club',0
+'3941',1002000,71400,0,'Country Club',0,21800,0,'Country Club',0,20800,0,'Country Club',0,27000,0,'Country Club',0,22100,0,'Country Club',0,27700,0,'Country Club',0
+'3941',1002001,80400,0,'Country Club',0,21200,0,'Country Club',0,23200,0,'Country Club',0,26000,0,'Country Club',0,21900,0,'Country Club',0,30500,0,'Country Club',0
+'3968',1002000,60300,0,'Country Club',0,10800,0,'Country Club',0,10200,0,'Country Club',0,2700,0,'Country Club',0,16300,0,'Country Club',0,11000,0,'Country Club',0,11000,0,'Country Club',0,11000,0,'Country Club',0,10800,0,'Country Club',0,11100,0,'Country Club',0,15000,0,'Country Club',0,12800,0,'Country Club',0,11000,0,'Country Club',0,21600,0,'Country Club',0
+'3968',1002001,71500,0,'Country Club',0,11300,0,'Country Club',0,11300,0,'Country Club',0,16100,0,'Country Club',0,11000,0,'Country Club',0,11200,0,'Country Club',0,8400,0,'Country Club',0,2600,0,'Country Club',0,11000,0,'Country Club',0,10900,0,'Country Club',0,14900,0,'Country Club',0,12900,0,'Country Club',0,10600,0,'Country Club',0,21200,0,'Country Club',0
+'4071',1002000,71400,0,'Country Club',0,21800,0,'Country Club',0,20800,0,'Country Club',0,27000,0,'Country Club',0,22100,0,'Country Club',0,27700,0,'Country Club',0
+'4071',1002001,80400,0,'Country Club',0,21200,0,'Country Club',0,23200,0,'Country Club',0,26000,0,'Country Club',0,21900,0,'Country Club',0,30500,0,'Country Club',0
+'4179',1002000,60300,0,'Country Club',0,10800,0,'Country Club',0,10200,0,'Country Club',0,2700,0,'Country Club',0,16300,0,'Country Club',0,11000,0,'Country Club',0,11000,0,'Country Club',0,11000,0,'Country Club',0,10800,0,'Country Club',0,11100,0,'Country Club',0,15000,0,'Country Club',0,12800,0,'Country Club',0,11000,0,'Country Club',0,21600,0,'Country Club',0
+'4179',1002001,71500,0,'Country Club',0,11300,0,'Country Club',0,11300,0,'Country Club',0,16100,0,'Country Club',0,11000,0,'Country Club',0,11200,0,'Country Club',0,8400,0,'Country Club',0,2600,0,'Country Club',0,11000,0,'Country Club',0,10900,0,'Country Club',0,14900,0,'Country Club',0,12900,0,'Country Club',0,10600,0,'Country Club',0,21200,0,'Country Club',0
+'4180',1002000,63700,0,'Country Club',0,11200,0,'Country Club',0,11000,0,'Country Club',0,14700,0,'Country Club',0,11400,0,'Country Club',0,10600,0,'Country Club',0,10000,0,'Country Club',0,11200,0,'Country Club',0,11800,0,'Country Club',0,15000,0,'Country Club',0,12500,0,'Country Club',0,22500,0,'Country Club',0
+'4180',1002001,72800,0,'Country Club',0,11300,0,'Country Club',0,11100,0,'Country Club',0,15100,0,'Country Club',0,10300,0,'Country Club',0,11700,0,'Country Club',0,11000,0,'Country Club',0,10400,0,'Country Club',0,11600,0,'Country Club',0,14900,0,'Country Club',0,12400,0,'Country Club',0,10300,0,'Country Club',0,21900,0,'Country Club',0
