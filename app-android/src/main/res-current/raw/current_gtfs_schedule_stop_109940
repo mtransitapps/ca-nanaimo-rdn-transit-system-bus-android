@@ -1,8 +1,17 @@
 '3160',2000,81900,,'',0,10000,,'',0,10900,,'',0,10900,,'',0,11100,,'',0,10600,,'',0,14900,,'',0,11200,,'',0,11100,,'',0,31500,0,'Country Club',0,20300,0,'Country Club',0
-'3328',2000,81000,,'',0,11200,,'',0,10000,,'',0,11800,,'',0,10800,,'',0,11100,,'',0,15100,,'',0,11100,,'',0,10500,,'',0,20200,0,'Country Club',0,21800,0,'Country Club',0,10200,0,'Country Club',0
-'3471',2000,81900,,'',0,10000,,'',0,10900,,'',0,10900,,'',0,11100,,'',0,10600,,'',0,14900,,'',0,11200,,'',0,11100,,'',0,31500,0,'Country Club',0,20300,0,'Country Club',0
-'3921',2000,81300,,'',0,21800,,'',0,21900,,'',0,26000,,'',0,23000,,'',0
+'3328',2000,162100,,'',0,52500,0,'Country Club',0,10200,0,'Country Club',0
+'3921',2000,103100,,'',0
+'4352',2000,81300,,'',0,43700,,'',0,26000,,'',0,23000,,'',0
+'4353',2000,81900,,'',0,10000,,'',0,10900,,'',0,10900,,'',0,11100,,'',0,10600,,'',0,14900,,'',0,11200,,'',0,11100,,'',0,31500,0,'Country Club',0,20300,0,'Country Club',0
+'4354',2000,81900,,'',0,10000,,'',0,10900,,'',0,10900,,'',0,11100,,'',0,10600,,'',0,14900,,'',0,11200,,'',0,11100,,'',0,31500,0,'Country Club',0,20300,0,'Country Club',0
+'4355',2000,81000,,'',0,11200,,'',0,10000,,'',0,11800,,'',0,10800,,'',0,11100,,'',0,15100,,'',0,21600,,'',0,20200,0,'Country Club',0
+'4356',2000,81300,,'',0,43700,,'',0,26000,,'',0,23000,,'',0
 '3160',1002000,55300,0,'Country Club',0,7100,,'',0,7700,0,'Country Club',0,2800,,'',0,10000,0,'Country Club',0,12400,0,'Country Club',0,15000,0,'Country Club',0,11000,0,'Country Club',0,10900,0,'Country Club',0,10600,0,'Country Club',0,11200,0,'Country Club',0,11100,0,'Country Club',0,16900,0,'Country Club',0,11000,0,'Country Club',0,21600,0,'Country Club',0
-'3328',1002000,62700,0,'Country Club',0,11200,0,'Country Club',0,11000,0,'Country Club',0,10700,0,'Country Club',0,15400,0,'Country Club',0,10600,0,'Country Club',0,10000,0,'Country Club',0,11200,0,'Country Club',0,11800,0,'Country Club',0,11000,0,'Country Club',0,16500,0,'Country Club',0,22500,0,'Country Club',0
-'3471',1002000,55300,0,'Country Club',0,7100,,'',0,7700,0,'Country Club',0,2800,,'',0,10000,0,'Country Club',0,12400,0,'Country Club',0,15000,0,'Country Club',0,11000,0,'Country Club',0,10900,0,'Country Club',0,10600,0,'Country Club',0,11200,0,'Country Club',0,11100,0,'Country Club',0,16900,0,'Country Club',0,11000,0,'Country Club',0,21600,0,'Country Club',0
-'3921',1002000,70400,0,'Country Club',0,21800,0,'Country Club',0,20800,0,'Country Club',0,22900,0,'Country Club',0,26100,0,'Country Club',0,23800,0,'Country Club',0
+'3328',1002000,142800,0,'Country Club',0
+'3471',1002000,70100,0,'Country Club',0
+'3921',1002000,135900,0,'Country Club',0,49900,0,'Country Club',0
+'4352',1002000,70400,0,'Country Club',0,21800,0,'Country Club',0,20800,0,'Country Club',0,49000,0,'Country Club',0
+'4353',1002000,55300,0,'Country Club',0,7100,,'',0,10500,,'',0,10000,0,'Country Club',0,12400,0,'Country Club',0,15000,0,'Country Club',0,11000,0,'Country Club',0,10900,0,'Country Club',0,10600,0,'Country Club',0,11200,0,'Country Club',0,11100,0,'Country Club',0,16900,0,'Country Club',0,11000,0,'Country Club',0,21600,0,'Country Club',0
+'4354',1002000,55300,0,'Country Club',0,7100,,'',0,10500,,'',0,10000,0,'Country Club',0,12400,0,'Country Club',0,15000,0,'Country Club',0,11000,0,'Country Club',0,10900,0,'Country Club',0,10600,0,'Country Club',0,11200,0,'Country Club',0,11100,0,'Country Club',0,16900,0,'Country Club',0,11000,0,'Country Club',0,21600,0,'Country Club',0
+'4355',1002000,62700,0,'Country Club',0,11200,0,'Country Club',0,11000,0,'Country Club',0,10700,0,'Country Club',0,15400,0,'Country Club',0,10600,0,'Country Club',0,10000,0,'Country Club',0,23000,0,'Country Club',0,11000,0,'Country Club',0,16500,0,'Country Club',0,22500,0,'Country Club',0
+'4356',1002000,70400,0,'Country Club',0,21800,0,'Country Club',0,20800,0,'Country Club',0,49000,0,'Country Club',0
