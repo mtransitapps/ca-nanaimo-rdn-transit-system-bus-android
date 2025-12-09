@@ -1,0 +1,40 @@
+100,0,'Downtown',1
+101,0,'Woodgrove',1
+500,0,'Downtown',5
+501,0,'Westwood',5
+600,0,'Downtown',6
+601,0,'VIU',6
+701,0,'Cinnabar',7
+700,0,'Downtown',7
+801,0,'Cedar',8
+800,0,'VIU',8
+901,0,'Qualicum Beach',9
+900,0,'Woodgrove',9
+1500,0,'VIU -',15
+1501,0,'Woodgrove -',15
+2000,0,'Downtown',20
+2001,0,'Woodgrove',20
+2500,0,'Hullo Ferry',25
+2501,0,'Woodgrove',25
+3000,0,'Downtown',30
+3001,0,'Woodgrove',30
+3101,0,'Lantzville',31
+3100,0,'Woodgrove',31
+4000,0,'Downtown',40
+4001,0,'Woodgrove',40
+7001,0,'Duncan',70
+7000,0,'Nanaimo',70
+7201,0,'Country Club',72
+7200,0,'Downtown',72
+7800,0,'Downtown',78
+7801,0,'YCD Airport -',78
+8800,0,'Parksville',88
+8801,0,'Wembley Mall',88
+9701,0,'Eaglecrest',97
+9801,0,'Qualicum Beach',98
+9901,0,'Deep Bay',99
+9900,0,'Qualicum Beach',99
+1001500,0,'VIU -',10015
+1001501,0,'Woodgrove -',10015
+1002000,0,'Downtown',10020
+1002001,0,'Woodgrove',10020
