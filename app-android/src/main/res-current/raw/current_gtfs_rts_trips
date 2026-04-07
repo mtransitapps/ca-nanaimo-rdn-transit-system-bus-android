@@ -1,6 +1,6 @@
 100,0,'Downtown',1
 101,0,'Woodgrove',1
-500,0,'Downtown / VIU Only / Westwood',5
+500,0,'Downtown',5
 501,0,'Westwood',5
 600,0,'Downtown',6
 601,0,'VIU',6
@@ -14,13 +14,13 @@
 1501,0,'Woodgrove -',15
 2000,0,'Downtown',20
 2001,0,'Woodgrove',20
-2500,0,'Downtown / Hullo Ferry',25
+2500,0,'Hullo Ferry',25
 2501,0,'Woodgrove',25
 3000,0,'Downtown',30
 3001,0,'Woodgrove',30
 3101,0,'Lantzville',31
 3100,0,'Woodgrove',31
-4000,0,'Downtown / VIU Only',40
+4000,0,'Downtown',40
 4001,0,'Woodgrove',40
 7001,0,'Duncan',70
 7000,0,'Nanaimo',70
