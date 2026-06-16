@@ -1,22 +1,22 @@
-1,'1','Nanaimo Rapid Line','96AE75',49,3
-5,'5','Fairview','E826CE',53,3
-6,'6','Harewood','59EB52',54,3
-7,'7','Cinnabar','E99D47',55,3
-8,'8','Cedar','00AA47',56,3
-9,'9','Intercity','AE8BDF',57,3
-15,'15','VIU Connector Via Pkwy','975EE8',1572,3
-20,'20','Hammond Bay','A0A251',1598,3
-25,'25','Ferry Shuttle','57ECCE',1603,3
-30,'30','NRGH','EF750A',1629,3
-31,'31','Lantzville','455EEC',1630,3
-40,'40','VIU Express','F4B099',1660,3
-70,'70','NCX Nanaimo - Cowichan Express','000000',1753,3
-72,'72','Downtown / Country Club','F00C0C',1755,3
-78,'78','Cassidy / Airport','F37421',1761,3
-88,'88','Parksville','5FB8E8',1792,3
-92,'92','Hammond Bay','833C3C',1817,3
-97,'97','Eaglecrest','A4A907',1822,3
-98,'98','Qualicum Beach','08AC75',1823,3
-99,'99','Deep Bay','6087E1',1824,3
-10015,'15A','VIU Connector Via Jingle Pot','975EE8',48797,3
-10020,'20A','Hammond Bay Via Dover','A0A251',49603,3
+1,'1','Nanaimo Rapid Line','A54499',49,3
+5,'5','Fairview','8CC63F',53,3
+6,'6','Harewood','004B8D',54,3
+7,'7','Cinnabar','ED1D8F',55,3
+8,'8','Cedar','00AA4F',56,3
+9,'9','Intercity','4F6F19',57,3
+15,'15','VIU Connector Via Pkwy','8E0C3A',1572,3
+20,'20','Hammond Bay','0073AE',1598,3
+25,'25','Ferry Shuttle','FFC20E',1603,3
+30,'30','NRGH','F49A5D',1629,3
+31,'31','Lantzville','B06E0E',1630,3
+40,'40','VIU Express','00AEEF',1660,3
+70,'70','NCX Nanaimo - Cowichan Express','77AE99',1753,3
+72,'72','Downtown / Country Club','FCAF17',1755,3
+78,'78','Cassidy / Airport','7C3F25',1761,3
+88,'88','Parksville','B3AA7E',1792,3
+92,'92','Hammond Bay','B2BB1E',1817,3
+97,'97','Eaglecrest','00B5AD',1822,3
+98,'98','Qualicum Beach','8177B7',1823,3
+99,'99','Deep Bay','5D87A1',1824,3
+10015,'15A','VIU Connector Via Jingle Pot','8E0C3A',48797,3
+10020,'20A','Hammond Bay Via Dover','0073AE',49603,3
